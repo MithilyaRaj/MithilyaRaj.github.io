@@ -129,6 +129,14 @@ body {
     padding: 10px;
     text-align: center;
   }
+
+  .cta-button {
+    background-color: #0077B5; /* LinkedIn blue color */
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
   
   .cta-button {
     background-color: #0077B5; /* LinkedIn blue color */
@@ -136,6 +144,7 @@ body {
     display: inline-block;
     padding: 10px 20px;
     text-decoration: none;
+    margin-right: 10px;
   }
   
   
